@@ -1,0 +1,458 @@
+position,name,year of birth,gender,hours:minutes:seconds
+1,Luca Galimberti,1984,F,0:35:37
+2,Mirko Boiocchi,1976,M,0:37:34
+3,Alessandro Mario Job,1981,M,0:37:58
+4,Paolomaria Cappello,1980,M,0:38:10
+5,Alberto Porzio,1984,M,0:38:21
+6,Luca Salvatore Crocco,1979,M,0:38:43
+7,Francesco Sofi,1982,M,0:39:5
+8,Domenico Torano,1982,M,0:39:22
+9,Nicholas Paul Burns,1978,M,0:39:23
+10,Alessandro Amadio,1980,M,0:39:25
+11,Dario Reale,1979,M,0:39:27
+12,Giacomo Panzeri,1983,M,0:39:49
+13,Bogdan Cernat,1983,M,0:39:56
+14,Fabio Esposito,1981,M,0:39:59
+15,Paolo Pistono,1984,M,0:40:2
+16,Stefano Doga,1983,M,0:40:8
+17,Stefano Pappano,1980,M,0:40:11
+18,Christian Testai,1978,U,0:40:16
+18,Emanuele Massoni,1981,M,0:40:16
+20,Mauro Gatti,1982,M,0:40:20
+21,Barbara Ribolla,1981,F,0:40:30
+22,Oscar Giacomo Chiesa,1983,M,0:40:34
+23,Marco Sannicandro,1978,M,0:40:35
+24,Yvan Christian Manganaro,1981,M,0:40:56
+25,Roberto Prosdocimo,1979,M,0:41:9
+26,Aldo Angelo Gozzini,1979,M,0:41:12
+27,Antonio Vernile,1984,M,0:41:13
+28,Samuele Amantea,1982,M,0:41:25
+29,Stefano Grieco,1979,M,0:41:29
+30,Michela Canobbio,1984,F,0:41:33
+31,Giorgio Mondonico,1979,M,0:41:56
+31,Luca Cividini,1982,M,0:41:56
+33,Davide Franciosa,1979,M,0:42:3
+33,Gian-Paolo Codebo,1976,M,0:42:3
+35,Diego Ascari,1980,M,0:42:10
+36,Stefano Zurra,1979,M,0:42:11
+37,Salvatore Grimaldi,1981,M,0:42:17
+38,Paolo Bosio,1976,M,0:42:32
+39,Giovanni Quaresima,1977,M,0:42:36
+40,Cristina Pietrocola,1981,F,0:42:37
+41,Stefano Lomazzi,1978,M,0:42:57
+42,Antonio D'Agostino,1983,M,0:43:0
+43,Carlo Sacchi,1981,M,0:43:3
+44,Andrea Rivolta,1981,M,0:43:4
+45,Ivan Galli,1982,M,0:43:8
+46,Alessandro Sommariva,1983,M,0:43:9
+47,Andrea Caselli,1977,M,0:43:12
+48,Enrico Corneo,1983,M,0:43:13
+49,Marco Savoia,1982,M,0:43:14
+50,Nicola Chiaffitelli,1979,M,0:43:19
+51,Michele Burei,1983,M,0:43:20
+52,Luca Arrigoni,1984,M,0:43:27
+53,Lucio Claudio Pasini,1976,M,0:43:28
+54,Francesco Pasotti,1982,M,0:43:32
+55,Ido Alfano,1983,M,0:43:40
+56,Lorenzo Dâ€™Amelio,1984,M,0:43:41
+57,Marco Busi,1984,M,0:43:48
+58,Simone Belli,1981,M,0:43:50
+59,Maurizio Chiarini,1978,M,0:43:52
+59,Vito Scotella,1983,M,0:43:52
+61,Gabriele Borghetti,1976,M,0:44:0
+61,Nicola Notaroberto,1984,M,0:44:0
+63,Massimiliano Soriano,1982,M,0:44:3
+64,Francesco Bandera,1978,M,0:44:6
+65,Mongelli CosÃ¬mo,1981,M,0:44:10
+66,Enrico Riva,1983,M,0:44:16
+67,Alessio Mei Martorelli,1982,M,0:44:19
+68,Tiziana Mauro,1977,F,0:44:22
+69,Francesco Marelli,1978,M,0:44:23
+70,Mattia Bellan,1984,M,0:44:24
+71,Miklos Betti,1976,M,0:44:30
+72,Nicola Volonterio,1983,M,0:44:36
+73,Ivelin Mihaylov Mihaylov,1983,M,0:44:37
+74,Salvatore Longo,1984,M,0:44:38
+75,Dario Semeraro,1976,M,0:44:39
+76,Carlo Leoni Orsenigo,1980,M,0:44:40
+77,Mirko Giovanni Tirenna,1980,M,0:44:43
+78,Francesco Fusco,1981,M,0:44:45
+79,Andrea Terrinoni,1976,M,0:44:50
+80,Valeria Gabriele,1979,F,0:45:1
+81,Fabrizio Dellâ€™Occhio,1984,M,0:45:2
+82,Luigi Marano,1984,M,0:45:12
+83,Ciro Balzano,1982,M,0:45:30
+84,Fabio Meroni,1979,M,0:45:35
+85,Francesca Rizzo,1982,F,0:45:39
+86,Paolo Alfio Pietro Parmigiani,1977,M,0:45:43
+87,Antonio Prestia,1982,M,0:45:45
+88,Alessandro De Berti,1977,M,0:45:56
+89,Akihiro Maeda,1979,M,0:46:11
+90,Alessandro Rossi,1979,M,0:46:12
+91,Riccardo Patricolo,1984,M,0:46:14
+92,Valerio Borghesi,1977,M,0:46:19
+93,Emanuele Lazzati,1982,M,0:46:24
+94,Ronny Andreani,1978,M,0:46:25
+95,Chiara Accordini,1984,F,0:46:26
+96,Santo Fiorenza,1981,M,0:46:28
+97,Marco Anelli,1977,M,0:46:37
+98,Ivano Mariani,1982,M,0:46:38
+99,Roberto Uglietti,1980,M,0:46:39
+100,Andrea Abate,1984,M,0:46:44
+101,Alessio Di Marco,1982,M,0:46:47
+102,Marco Fortunato,1982,M,0:46:50
+103,Mariano Domenico Albanese,1979,M,0:46:51
+104,Raffaele Quadri,1983,M,0:46:56
+105,Lara Borgognoni,1984,F,0:47:2
+106,Laura Galli,1981,F,0:47:7
+107,Giovanna Galli,1982,F,0:47:9
+108,Alberto Filippo Lucarelli,1981,M,0:47:10
+109,Fabio Balestrini,1984,M,0:47:13
+109,Michele Di Palma,1978,M,0:47:13
+111,Corrado Muroni,1981,M,0:47:22
+112,Christian Margaro,1980,M,0:47:25
+112,Roberto Cavenaghi,1976,M,0:47:25
+112,Massimo Mara,1979,M,0:47:25
+115,Massimo Mazza,1979,M,0:47:29
+115,Francesco Bricco,1978,M,0:47:29
+117,Andrea Di Pane Masi,1979,M,0:47:38
+118,Michelangelo Draicchio,1976,M,0:47:41
+119,Davide Banfi,1980,M,0:47:43
+120,Gabriella Torre,1979,F,0:47:44
+121,Cesare Orazio Monetti,1976,M,0:47:53
+121,Daniela De Stefano,1979,F,0:47:53
+123,Fabio Calogero Riggi,1976,M,0:47:55
+124,Riccardo Marelli,1982,M,0:47:56
+125,Alberto Bignamini,1980,M,0:48:0
+126,Claudia Megaro,1983,F,0:48:4
+127,Giuseppe Giuga,1978,M,0:48:5
+128,Alessandro ViganÃ²,1979,M,0:48:15
+129,Michele Paciello,1982,M,0:48:20
+130,Jury Lievore,1983,U,0:48:22
+131,Luigi De Patto,1977,M,0:48:30
+131,Marco Trombelli,1980,M,0:48:30
+133,Federico Porcacchia,1980,M,0:48:31
+134,Omar Riva,1979,M,0:48:33
+135,Patrizio Lamontanara,1978,M,0:48:35
+136,Alberto Tagliaretti,1976,M,0:48:36
+137,Fabrizio Lucidi,1979,M,0:48:38
+138,Angelo Collamati,1980,M,0:48:39
+139,Mariana Leonte,1980,F,0:48:46
+140,Giordano Ciapponi,1977,M,0:48:47
+141,Francesco Gentile,1981,M,0:48:48
+142,Valentina Fantini,1981,F,0:48:51
+142,Matteo Forcella,1979,M,0:48:51
+144,Nimesha Avanthi Don Dias Rajawasala Nanayakkara,1979,F,0:48:58
+145,Marco Iannantuoni,1983,M,0:49:5
+146,Stefano Vaira,1981,M,0:49:12
+147,Jennifer Isella,1981,F,0:49:13
+147,Maria Isabel Zegarra Riveros,1977,F,0:49:13
+149,Vittorio Arturi,1979,M,0:49:16
+150,Ralica Uzunova,1983,F,0:49:18
+151,Mauro Molteni,1982,M,0:49:19
+152,Fabio Frigerio,1982,M,0:49:20
+153,Marco Foieni,1976,M,0:49:24
+154,Raffaele Rinaldesi,1976,M,0:49:27
+155,Giuseppe Carvelli,1981,M,0:49:28
+156,Eugenio Macedone,1980,M,0:49:31
+157,Giorgio Baresi,1981,M,0:49:38
+157,Laura Fabbiani,1983,F,0:49:38
+159,Raniero Spaziani,1981,M,0:49:39
+160,Giuseppe Sito,1980,M,0:49:44
+160,Alberto Toson,1976,M,0:49:44
+162,Satoshi Nakamura,1978,M,0:49:46
+163,Massimo Donghi,1984,M,0:49:55
+164,Simone Mossini,1981,M,0:50:3
+165,Edoardo Erba,1976,M,0:50:4
+165,Andrea Arosio,1976,M,0:50:4
+167,Rocco Faillace,1977,M,0:50:17
+168,Jessica Elda Greco,1981,F,0:50:21
+169,Delian Laican,1982,M,0:50:25
+169,Paola Rota,1979,F,0:50:25
+169,Matteo Maria Galbiati,1976,M,0:50:25
+172,Riccardo Piroddi,1979,M,0:50:31
+172,Alessandro Fedeli,1979,M,0:50:31
+174,Matteo Redegalli,1977,M,0:50:32
+175,Andrea Mallamaci,1977,F,0:50:35
+176,Marco Romano,1982,M,0:50:36
+177,Matteo Ravizzotti,1977,M,0:50:45
+178,Daniele Ghisolfi,1976,M,0:50:48
+179,Stefano Daverio,1980,M,0:50:49
+180,Pietro Campagna,1977,M,0:50:51
+180,Mario Lione,1978,M,0:50:51
+180,Massimiliano Ciminaghi,1981,M,0:50:51
+183,Katarzyna Urszula Szopka,1978,F,0:50:54
+184,Maria Melissa Mantegazza,1980,F,0:50:56
+185,Francesca D'Oriano,1981,F,0:51:3
+185,Alessandro Elia,1981,M,0:51:3
+187,Donato Martucci,1979,M,0:51:5
+188,Luca Volpi,1978,M,0:51:8
+189,Fabrizio Marano,1980,M,0:51:11
+190,Sergio Gazzonis,1976,M,0:51:14
+191,Steven John Paterson,1979,M,0:51:16
+192,Pietro AliquÃ²,1978,M,0:51:18
+193,Matteo Simola,1977,M,0:51:19
+194,Luca Pellegrino,1978,M,0:51:25
+194,Francesco Muscuso,1978,M,0:51:25
+196,Simona Piscioneri,1979,F,0:51:28
+196,Manuel Morandi,1979,M,0:51:28
+198,Andrea Formica,1979,M,0:51:29
+199,Claudia Calabrese,1981,F,0:51:32
+199,Francesca Marra,1983,F,0:51:32
+201,Elena Latini,1976,F,0:51:33
+202,Fabrizio Di Presa,1977,M,0:51:35
+202,Vincenzo Tarsia,1983,M,0:51:35
+204,Andrea Remonti,1980,M,0:51:41
+205,Gregory Sicignano,1983,M,0:51:42
+206,Andrea Maria Colombo,1977,M,0:51:46
+207,Sergio Merenda,1981,M,0:51:47
+208,Andrea Artemisio,1981,M,0:51:51
+209,Fabio Della Sala,1982,M,0:51:52
+210,Matteo Orlandi,1979,M,0:51:55
+211,Maria Vittoria Capocelli,1977,F,0:52:0
+212,Antonio La Corte,1978,M,0:52:1
+213,Andrea Algisi,1983,M,0:52:4
+214,Andrea Basile,1976,M,0:52:6
+215,Emanuele Cosimelli,1982,M,0:52:11
+216,Marco Zelasco,1976,M,0:52:15
+217,Claudia Dolce,1977,F,0:52:17
+218,Silvia Righetti,1978,F,0:52:19
+219,Flora Mecozzi,1984,F,0:52:20
+220,Sara Acquistapace,1979,F,0:52:21
+221,Francesco Nava,1982,M,0:52:26
+222,Francesco Odorizzi,1983,M,0:52:30
+222,Luca Zanetti,1983,M,0:52:30
+224,Maurizio Nicola Camasta,1978,M,0:52:34
+225,Niarkos Caserini,1977,M,0:52:44
+226,Bledjana Beqiri,1982,F,0:52:51
+227,Vincenzo Lepera,1976,M,0:53:1
+228,Alessio Sindoni,1976,M,0:53:2
+228,Matteo Peviani,1978,M,0:53:2
+230,Gionata Russo,1978,M,0:53:3
+231,Gabriele Pinzin,1982,M,0:53:10
+232,Anna Carluccio,1980,F,0:53:11
+233,Alan Carnevali,1982,M,0:53:13
+234,Alicja Zoladz,1976,F,0:53:14
+235,Roberto Cornacchio,1979,M,0:53:16
+236,Lorenzo Dani,1976,M,0:53:17
+237,Giovanni Minardi,1981,M,0:53:24
+237,Alessandro Biondo,1977,M,0:53:24
+239,Andrea Bollani,1982,M,0:53:26
+240,Alessandro Caleffi,1977,M,0:53:31
+240,Paolo Amadei,1977,M,0:53:31
+240,Paolo Marchetti,1984,M,0:53:31
+243,Daniela Colombi,1979,F,0:53:33
+244,Mauro Guffanti,1982,M,0:53:36
+245,Paolo Nibioli,1982,M,0:53:40
+245,Valentino Mauro,1982,M,0:53:40
+245,Raffaele Bottazzi,1980,M,0:53:40
+248,Paolo Bonetti,1981,M,0:53:42
+249,Francesca Arpone,1982,F,0:53:43
+250,Roberto Zichichi,1981,M,0:53:47
+251,Angelo Mandelli,1976,M,0:53:49
+252,Alberto Pomodoro,1981,M,0:53:50
+252,Romilda Fuoco,1980,F,0:53:50
+254,Massimiliano Siviero,1982,M,0:53:53
+254,Giovanni Schiavilla,1981,M,0:53:53
+256,Nnawuihe Luca Ohazuruike,1980,M,0:53:54
+257,Domenica Santirocco,1984,F,0:53:56
+258,Francesco Vitale,1980,M,0:54:10
+259,Silvia Divina Danuvola,1982,F,0:54:13
+260,Camilla Alessandra Nicolini,1979,F,0:54:16
+261,Francesco Lombardi,1980,M,0:54:18
+262,Paolo Bestetti,1978,M,0:54:23
+263,Umberto Regosini,1984,M,0:54:26
+264,Grazia Tatti,1978,F,0:54:27
+265,Diana Carolina Bermudez Diaz,1983,F,0:54:28
+266,Stefania Santarsiero,1976,F,0:54:32
+267,Achille Midali,1981,M,0:54:35
+268,Lara Gasperini,1976,F,0:54:40
+269,Erika Orlando,1980,F,0:54:41
+270,Alberto Monti,1984,M,0:54:49
+271,Nicoletta Milanesi,1977,F,0:54:53
+271,Marco Basilico,1978,M,0:54:53
+273,Diana Lorena Toma,1984,F,0:54:54
+274,Nicola Goldoni,1982,M,0:54:55
+275,Emanuela Maria Zanardi,1979,F,0:54:59
+276,Anna Gabriella Ferrari,1977,F,0:55:0
+277,Michele Poggi,1980,M,0:55:1
+277,Marco Leli,1984,M,0:55:1
+279,Stefano Paludo,1979,M,0:55:8
+280,Marco De Griffi,1976,M,0:55:11
+281,Valentina Cerreto,1982,F,0:55:13
+282,Maximilian Boccalari,1983,M,0:55:14
+283,Luana Furiani,1983,F,0:55:15
+283,Ezio Latteri,1983,M,0:55:15
+285,Natascha Sanson,1981,F,0:55:24
+286,Annamaria Litta Modignani,1976,F,0:55:30
+287,Giordano Loperfido,1984,M,0:55:33
+288,Marika Ortelli,1984,F,0:55:34
+289,Antonio Perretti,1981,M,0:55:39
+290,Chiara Pozzoli,1982,F,0:55:44
+291,Claudia Marinozzi,1979,F,0:55:47
+292,Luca Prandini,1979,M,0:55:48
+293,Eliana Tascheri,1983,F,0:55:51
+294,Alessandro Dâ€™Angelo,1978,M,0:55:53
+295,Ombretta Vigano,1979,F,0:55:57
+296,Anna Francesca Giani,1976,F,0:56:4
+296,Barbara Frangi,1980,F,0:56:4
+298,Castillo Kiky Feybelin,1982,F,0:56:8
+299,Stefano Pozzato,1983,M,0:56:9
+300,Chiara Guzzetti,1978,F,0:56:20
+301,Rosario Valletta,1982,M,0:56:21
+302,Ornella Pastore,1984,F,0:56:30
+303,Claudia Corona,1976,F,0:56:33
+304,Eleonora Posabella,1977,F,0:56:38
+305,Antonio Liso,1982,M,0:56:50
+306,Marco Ferrario,1982,M,0:56:51
+306,Alessandro Boga,1978,M,0:56:51
+308,Nicola Fabbrica,1980,M,0:57:8
+309,Matteo Fabris,1983,M,0:57:31
+309,Armando Vitucci,1983,M,0:57:31
+311,Matteo Zani,1982,M,0:57:33
+312,Ricardo Reinoso Ramirez,1984,M,0:57:38
+313,Gaetano Barbera,1978,M,0:57:42
+314,Annalisa Gastaldello,1980,F,0:57:44
+315,Luigi Domenico Varriale,1983,M,0:57:49
+316,Margherita Daverio,1984,F,0:57:54
+317,Fabio Ortile,1981,M,0:57:55
+318,Francesco Ieva,1977,M,0:57:58
+319,Chiara Pagani,1981,F,0:58:1
+320,Stefano Maschio,1982,M,0:58:9
+321,Luigi Mario Mattarucchi,1984,M,0:58:12
+322,Gianluca Festa,1980,M,0:58:21
+323,Giuseppe Taffari,1979,M,0:58:34
+324,Daniela Martino,1976,F,0:58:36
+325,Maria Dolores Cai,1980,F,0:58:40
+326,Matteo Bertolotti,1980,M,0:58:45
+327,Francesco Arrighetti,1979,M,0:58:51
+328,Alessia Adamo,1981,F,0:58:54
+329,Gaetano Cipullo,1977,M,0:58:56
+330,Francesca Cipullo,1982,F,0:58:58
+331,Blessing Ogbeide,1980,F,0:59:0
+332,Simone Oppici,1978,M,0:59:3
+333,Elisa Coppo,1977,F,0:59:5
+334,Francesco Colonna,1981,M,0:59:22
+335,Michele Dibenedetto,1981,M,0:59:24
+336,Cesare Busseni,1977,M,0:59:31
+337,Brian Strambi,1980,M,0:59:51
+337,Silvia Benedetti,1977,F,0:59:51
+339,Marco Terzi,1984,M,0:59:57
+340,Maria Grazia Pangallo,1981,F,0:59:58
+341,Loredana Faraone,1976,F,1:0:7
+342,Valeria Pagani,1981,F,1:0:11
+343,Stefano Spampinato,1976,M,1:0:23
+344,Consuelo Bellantone,1976,F,1:0:26
+345,Claudio Libro,1979,M,1:0:27
+346,Gianni Fenaroli,1984,M,1:0:39
+347,Roberta Pollini,1977,F,1:0:51
+348,Andrea Salogni,1982,M,1:0:53
+349,Irene Digiorgio,1980,F,1:1:0
+350,Lilibeth Cabanayan,1980,F,1:1:3
+350,Dexter Cabanayan,1978,M,1:1:3
+350,Valeria Manoli,1982,F,1:1:3
+353,Alessandro Sala,1976,M,1:1:8
+354,Eros BasilicÃ²,1980,M,1:1:9
+355,Antonella Fragale,1976,F,1:1:12
+355,Luca Brenna,1984,M,1:1:12
+357,Mirko Biazzo,1979,M,1:1:16
+358,Pietro Fusco,1981,M,1:1:17
+358,Alessio Carniel,1977,M,1:1:17
+360,Sara Carolina Velotto,1983,F,1:1:18
+361,Sergio Naitana,1976,M,1:1:41
+362,Liudmila Zakharova,1984,F,1:1:42
+363,Fabio Di Ruberto,1979,M,1:1:57
+364,Micaela Lamanuzzi,1980,F,1:2:7
+365,Samanta Lamanuzzi,1976,F,1:2:8
+366,Federica Varisco,1984,F,1:2:19
+367,Veronica Liscidini,1984,F,1:2:20
+368,Fabio Dall'Era,1978,M,1:2:23
+369,Marco Carvutto,1984,M,1:2:24
+370,Marco Cesana,1982,M,1:2:37
+371,Yuri De Pascalis,1984,M,1:2:43
+372,Stefano Senatore,1977,M,1:2:46
+373,Raffaele Iacona,1978,M,1:2:47
+373,Elisa Desiati,1979,F,1:2:47
+375,Paolo Bernabei,1980,M,1:2:50
+376,Marco Alfano,1980,M,1:2:51
+377,Daniela Bara,1984,F,1:2:58
+378,Francesca Alessi,1984,F,1:3:23
+379,Giuseppe Casabona,1982,M,1:3:28
+380,Felice Borriello,1979,M,1:3:34
+381,Chiara Romito,1977,F,1:3:35
+382,Emanuela Pozzi,1979,F,1:3:45
+383,Elisabetta Premoli,1981,F,1:4:17
+384,Vito Romaniello,1976,M,1:4:18
+385,Marco Volpe,1982,M,1:4:26
+386,Gabriella Mariggio,1979,F,1:4:33
+387,Marco Donati,1981,M,1:4:35
+388,Mara Turco,1978,F,1:4:37
+389,Valentina Lagrasta,1984,F,1:4:39
+390,Francesca Giussani,1982,F,1:4:41
+391,Romina Esposito,1979,F,1:5:2
+391,Barbara Gulesu,1979,F,1:5:2
+393,Claudia Cogoni,1979,F,1:5:5
+394,Beatrice Mancini,1984,F,1:5:24
+395,Lara Dall'Aglio,1980,F,1:5:38
+396,Ettore D'Auria,1976,M,1:5:39
+397,Valeria Radaelli,1983,F,1:6:1
+398,Pasquale Loiacono,1982,M,1:6:5
+399,Maurizio Airoldi,1976,M,1:6:45
+400,Michele Piunti,1976,M,1:6:55
+401,Luigi Calipari,1979,M,1:7:3
+402,Riccardo Cesati,1980,M,1:7:5
+403,Vincenzo Radicella,1979,M,1:7:9
+404,Luca Mario Emma,1983,M,1:7:10
+405,Milena Cianni,1981,F,1:7:13
+406,Sandro Ferrigno,1979,M,1:7:15
+407,Vincenzo Coglitore,1983,M,1:7:39
+408,Sembayashi Tetsuro,1981,M,1:7:46
+409,Nicoletta Paolin,1983,F,1:7:48
+410,Sonia Gibertoni,1978,F,1:8:34
+411,Elisa Magagnoli,1981,F,1:8:58
+412,Graziella Raffaele,1980,F,1:9:7
+413,Raffaella Davarda,1977,F,1:9:14
+414,Riccardo Guasco,1976,M,1:9:15
+415,Filomena Alessandra Ballarino,1979,F,1:9:27
+416,Guido Vincenzi,1979,M,1:10:5
+416,Daniela Pizzi,1982,F,1:10:5
+418,Stefano Fumagalli,1978,M,1:10:7
+419,Francesca Canedoli,1980,F,1:10:34
+420,Francesca Conserva,1981,F,1:10:36
+421,Lorena Chiara Vescio,1981,F,1:10:57
+422,Andrea Santi,1984,F,1:10:59
+423,Andrew Bridges,1978,M,1:11:9
+424,Michele Parietti,1983,M,1:13:1
+425,Stefano Semprini,1982,M,1:14:1
+426,Fernando Lopopolo,1977,M,1:14:3
+427,Alessandro Cravello,1983,M,1:14:9
+427,Ieva Petkute,1984,F,1:14:9
+429,Michela Filipazzi,1976,F,1:14:36
+430,Emanuele Invernizzi,1983,M,1:14:41
+431,Maria Luisa Martelli,1978,F,1:15:13
+432,Silvia Bocchiola,1976,F,1:15:37
+432,Elisa Martellosio,1981,F,1:15:37
+434,Diana Ivanova,1980,F,1:15:53
+435,Francesca Barottino,1978,F,1:16:13
+436,Silvia Rossi,1977,F,1:16:14
+437,Laura Gruppi,1977,F,1:17:1
+438,Juri Cucchetti,1981,M,1:17:24
+438,Mariachiara Alghisi,1980,F,1:17:24
+440,Rosario Vattiata,1981,M,1:17:33
+441,Manuel Zanardi,1978,M,1:17:36
+442,Barbara Capuano,1982,F,1:17:48
+443,Adrian Medina,1982,M,1:17:55
+444,Carola Daminati,1976,F,1:18:31
+445,Vincenza De Vivo,1980,F,1:18:41
+446,Marcello Monti,1976,M,1:20:56
+447,Ioan Alexandru Iacob,1982,M,1:21:7
+448,Carla Santagati,1981,F,1:21:39
+449,Roberto Brengola,1984,M,1:23:25
+449,Marco Casati,1980,M,1:23:25
+451,Massimiliano Gozzo,1982,M,1:23:27
+452,Susanna Neuhold,1976,F,1:23:57
+453,Lara Panza,1984,F,1:24:13
+454,Barbara Colurciello,1982,F,1:24:14
+455,Fabio Angelo Spada,1980,M,1:25:33
+456,Stefano Trapattoni,1981,M,1:25:41
+457,Antonella Ferrari,1980,F,1:25:42

@@ -1,0 +1,501 @@
+position,name,year of birth,gender,hours:minutes:seconds
+1,Alessandro Volpara,1993,M,0:34:26
+2,Matteo Varallo,1993,M,0:36:49
+3,Federico Zaletti,1994,M,0:36:52
+4,Marco Triolo,1992,M,0:37:0
+5,Alessandro Porcelli,1989,M,0:37:4
+6,Davide Lupini,1991,M,0:37:25
+7,Luis Antonio Cipriano Marcos,1993,M,0:37:35
+8,Mattia Codecasa,1994,M,0:37:49
+9,Giulia Sommi,1987,F,0:37:51
+10,Andrea Giulio Adragna,1994,M,0:38:0
+11,Lorenzo Fargione,1994,M,0:38:18
+12,Thomas De Melgazzi,1994,M,0:38:44
+13,Martina Festoli,1993,F,0:38:48
+14,Marco Nardin,1992,M,0:38:59
+15,Alessandro Boccotti,1989,M,0:39:5
+16,Loris Gargantini,1991,M,0:39:12
+17,Rosa Catalani,1987,F,0:39:13
+18,Jacopo Buscaini,1987,M,0:39:15
+19,Daniele Pappano,1991,M,0:39:16
+20,Denis Moretti,1992,M,0:39:23
+21,Alessio Sfardini,1986,M,0:39:39
+22,Eugen Costinel Petrisor,1989,M,0:39:40
+23,Francesco Ballerini,1992,M,0:39:42
+24,Simone Lunardi,1994,M,0:39:43
+25,Alessio Misuri,1993,M,0:39:48
+26,Stefano Della Maddalena,1994,M,0:39:54
+27,Roberto Revera,1986,M,0:40:16
+28,Filippo Di Carlo,1990,M,0:40:34
+29,Matteo Bonetti,1986,M,0:40:38
+30,Benedetto Musillami,1990,M,0:40:39
+31,Matteo Piacentini,1987,M,0:40:43
+32,Andrea Marini,1991,M,0:40:44
+33,Lorenzo Zoia,1994,M,0:40:45
+33,Marco Cattaneo,1987,M,0:40:45
+35,Tommaso Beretta,1992,M,0:40:58
+36,Andrea Fasoli,1990,M,0:40:59
+37,Stefano Tassinari,1988,M,0:41:19
+38,Federico Valle,1992,M,0:41:20
+39,Matteo Cattaneo,1989,M,0:41:24
+40,Dario Sofia,1986,M,0:41:31
+41,Danny Monelli,1990,M,0:41:33
+42,Matteo Broggi,1994,M,0:41:36
+43,Francesco Farina,1994,M,0:41:42
+43,Luca Deasti,1987,M,0:41:42
+45,Sergio Tilotta,1993,M,0:41:53
+46,Giuseppe Simonelli,1993,M,0:42:4
+47,Claudio Paradiso,1990,M,0:42:12
+48,Andrea Spagnuolo,1990,M,0:42:15
+49,Stefano Della Matera,1992,M,0:42:21
+50,Barbara Nardin,1992,F,0:42:23
+51,Alessandro Pietronero,1987,M,0:42:27
+52,Igor Carubelli,1987,U,0:42:28
+53,Alessandro Ferrante,1986,M,0:42:40
+54,Tommaso Palange,1990,M,0:42:51
+55,Marco Giunzioni,1986,M,0:42:52
+56,Uriele Masenelli,1991,M,0:42:53
+57,Francesco Carta,1986,M,0:42:58
+58,Vittorio Mazzia,1992,M,0:43:7
+59,Jonathan Adami,1988,M,0:43:10
+60,Gabriele Frigerio,1986,M,0:43:18
+61,Michael Bosio,1994,M,0:43:19
+61,Francesco Cambianica,1994,M,0:43:19
+63,Davide Marco Rovati,1993,M,0:43:27
+64,Alberto Cervato,1992,M,0:43:28
+64,Giacomo Cazzaniga,1992,M,0:43:28
+66,Gabriele PurghÃ¨,1993,M,0:43:31
+67,Pietro Angelino Pillitu,1986,M,0:43:42
+67,Simone Seghezzi,1990,M,0:43:42
+69,Andrea Visona',1989,M,0:43:50
+70,Alessandro Villa,1993,M,0:43:54
+70,Silvio Tritto,1991,M,0:43:54
+72,Luis Felipe Caicedo Marmolejo,1990,M,0:43:57
+73,Andrea Franchini,1988,M,0:43:58
+74,Pierre Rigaud,1989,M,0:44:1
+74,Alessandro Cecon,1994,M,0:44:1
+76,Federico Grossi,1993,M,0:44:3
+77,Enrico Votta,1988,M,0:44:4
+78,Giulia Bazzani,1992,F,0:44:13
+79,Alessio Corigliano,1988,M,0:44:18
+80,Marcello Capucci,1992,M,0:44:29
+81,Andrea Cazzaniga,1987,M,0:44:30
+82,Gareth Collett,1987,M,0:44:32
+83,Giorgio Riezzo,1990,M,0:44:33
+84,Elia Farina,1990,M,0:44:34
+85,Claudia Giunzioni,1989,F,0:44:40
+86,Matteo Legnani,1986,M,0:44:41
+87,Guido Pasero,1994,M,0:44:47
+87,Federico Parravicini,1993,M,0:44:47
+87,Saul Antonio Vega Hernandez,1989,M,0:44:47
+90,Tawfik Kazwan,1989,M,0:44:51
+91,Piergiorgio Tassoni,1990,M,0:45:0
+92,Carlo Clementi,1991,M,0:45:1
+92,Stelios Kallioras,1990,M,0:45:1
+94,Valerio Pozzi,1989,M,0:45:6
+95,Tommaso Candoli,1993,M,0:45:7
+95,Pietro Santin,1986,M,0:45:7
+97,Antonio Lebano,1991,M,0:45:13
+98,Marco Zaghen,1994,M,0:45:14
+99,Alessio Battilomo,1990,M,0:45:18
+100,Alessia Castelli,1990,F,0:45:23
+101,Paolo Cassis,1992,M,0:45:24
+101,Ramon Diaz,1992,M,0:45:24
+103,Gaia De Philippis,1992,F,0:45:29
+104,Claudia Vezzosi,1990,F,0:45:30
+105,Antonio Nataloni,1994,M,0:45:31
+106,Kevin Brian Padul,1987,U,0:45:36
+107,Roberto Pastore,1991,M,0:45:37
+107,Alessio Marchesi,1992,M,0:45:37
+107,Christian Francesco Corica,1986,M,0:45:37
+110,Davide Alfonso Primo Bove,1990,M,0:45:41
+111,Fabrizio Fonte,1990,M,0:45:47
+112,Angelo Potenza,1993,M,0:45:58
+113,Veronica Corti,1988,F,0:45:59
+114,Valerio Grillo,1991,M,0:46:4
+115,Robin Wilharm,1987,M,0:46:9
+116,Elena Masciocchi,1986,F,0:46:12
+117,Federico Lo Sinno,1990,M,0:46:15
+118,Galya Boycheva Vladimirova,1987,F,0:46:16
+119,Luca Chiodini,1986,M,0:46:17
+120,Filippo Dicecca,1987,M,0:46:20
+121,Alberto Re Fraschini,1990,M,0:46:21
+121,Domenico Pasquariello,1992,M,0:46:21
+123,Michele D'Amicis,1991,M,0:46:24
+124,Percy Corrales,1994,M,0:46:25
+124,Vittorio Piredda Virgilio,1993,M,0:46:25
+126,Paolo Cammi,1988,M,0:46:32
+127,Umberto Vantini,1988,M,0:46:34
+127,Alessandro Riva,1993,M,0:46:34
+129,Alberto Mirto,1989,M,0:46:35
+130,Andrea Ravelli,1992,M,0:46:41
+131,Davide Lisbona,1993,M,0:46:42
+132,Andrea Martinelli,1987,M,0:46:45
+133,Lorenzo Tieppo,1990,M,0:46:46
+133,Agostino Trotta,1994,M,0:46:46
+135,Simone Boniardi,1988,M,0:46:47
+135,Adam John Santiago,1989,U,0:46:47
+135,Raffaele Napoli,1991,M,0:46:47
+138,Fabio Branca,1989,M,0:46:48
+139,Luca Siviero,1990,M,0:46:52
+140,Salvatore Mastroberti,1990,M,0:46:55
+141,Lorenzo Martinelli,1992,M,0:46:56
+142,Andrea Branca,1993,M,0:47:0
+143,Gaia Morandotti,1993,F,0:47:1
+144,Jose Gomez,1994,M,0:47:4
+144,Stefano Guglielmi,1991,M,0:47:4
+146,Sara Armento,1991,F,0:47:7
+147,Roberto Claudio Pirola,1989,M,0:47:11
+148,Pierpaolo Tosi,1994,M,0:47:12
+149,Gabriel Caputo,1991,M,0:47:13
+150,Lorenzo Magni,1990,M,0:47:14
+151,Federico Fanin,1989,M,0:47:17
+152,Salvatore Ciocca,1989,M,0:47:18
+153,Sebastian Bucciante,1994,M,0:47:23
+154,Simone Tiberi,1987,M,0:47:27
+155,Lorenzo Triacca,1989,M,0:47:34
+156,Andrea Gargiulo,1991,M,0:47:38
+157,Gabriele Mugnano,1988,M,0:47:42
+158,Michelangelo Cucinotta,1987,M,0:47:45
+159,Jose Moreno Pepe,1986,M,0:47:52
+160,Matteo Andrea Sacco,1991,M,0:47:55
+161,Laura Zampese,1993,F,0:47:57
+162,Giada Bonardi Tira,1988,F,0:48:2
+163,Matteo Mantovan,1990,M,0:48:3
+164,Giuseppe Bove,1991,M,0:48:8
+165,Sergey Baryshnikov,1990,M,0:48:10
+165,Matteo Pomelli,1988,M,0:48:10
+167,Costanza Bossi,1987,F,0:48:13
+168,Andrea Locatelli,1990,M,0:48:20
+169,Alessandro Rebora,1994,M,0:48:27
+170,Andrea Sabot,1991,M,0:48:29
+170,Gabriele Turchetti,1994,M,0:48:29
+172,Riccardo Masini,1992,M,0:48:30
+173,Alberto Di Presa,1992,M,0:48:33
+174,Andrea Barlassina,1991,M,0:48:35
+175,Stefano Della Beffa,1992,M,0:48:36
+176,Federica Rastro,1992,F,0:48:41
+177,Davide Frigerio,1992,M,0:48:43
+178,Abibakr Darwish,1994,M,0:48:44
+179,Marco Molinari,1989,M,0:48:57
+180,Carmen Maduta,1989,F,0:48:58
+181,Jordan Belassein,1989,M,0:49:1
+182,Bruno D'Aleo,1986,M,0:49:3
+183,Alberto Bugana,1986,M,0:49:5
+184,Luca Catera,1992,M,0:49:7
+185,Marco Califano,1989,M,0:49:8
+186,Alessandro Sala,1990,M,0:49:10
+187,Elena Accornero,1994,F,0:49:14
+188,Sara Corradini,1994,F,0:49:16
+188,Antonio Michele Bozzi,1991,M,0:49:16
+188,Cesar Alberto Muro Ayala,1988,M,0:49:16
+191,Emilie Marie Gabrielle Auble,1992,F,0:49:22
+192,Eliana Gottardello,1986,F,0:49:26
+193,Lorenzo Tolosa,1994,M,0:49:34
+194,Riccardo Gatti,1993,M,0:49:41
+195,Matteo Quadri,1991,M,0:49:42
+196,Valentina Sbardellati,1994,F,0:49:44
+197,Enrico Nicola Trotta,1993,M,0:49:49
+198,Davide De Rosa,1993,M,0:49:51
+199,Gianpasquale Marrone,1988,M,0:49:53
+200,Adriano Corigliano,1986,M,0:50:4
+200,Federico Ciprietti,1990,M,0:50:4
+202,Fabio Spina,1989,M,0:50:12
+203,Alessandro Arrighi,1991,M,0:50:20
+204,Davide Del Buono,1992,M,0:50:24
+205,Piero Petralla,1990,M,0:50:32
+206,Lorenzo Di Ruocco,1988,M,0:50:38
+207,Michael Valerio,1994,M,0:50:41
+208,Mattia De Gaspari,1990,M,0:50:42
+208,Silvia Gnisci,1992,F,0:50:42
+208,Marco Capeccia,1993,M,0:50:42
+211,Flavia Di Palma,1987,F,0:50:43
+212,Michelangelo Iannone,1993,M,0:50:44
+213,Stefano De Lucia,1991,M,0:50:46
+214,Enrico Signorelli,1994,M,0:50:47
+215,Andrea Bolis,1993,M,0:50:48
+216,Filippo Gilli,1990,M,0:50:50
+217,Andrea Manai,1987,M,0:50:52
+218,Stefano Terruzzi,1989,M,0:50:53
+219,Luca Riva,1990,M,0:50:55
+220,Maria Rosaria Basili,1988,F,0:50:56
+221,Francesco Biondo,1994,M,0:51:2
+222,David Mandoloni,1986,M,0:51:3
+223,Antonio Porricelli,1987,M,0:51:5
+223,Jacopo Paulis,1990,M,0:51:5
+225,Riccardo Ribelli,1994,M,0:51:14
+226,Beatrice Donizetti,1993,F,0:51:15
+227,Claudio Santi,1989,M,0:51:16
+228,Giulia Piantoni,1991,F,0:51:21
+229,Nicholas Manzoni,1989,M,0:51:25
+229,Evelyn Lamberto,1991,F,0:51:25
+231,Riccardo Mondonico,1988,M,0:51:26
+232,Mario Argentino,1991,M,0:51:28
+233,Luca De Paulis,1992,M,0:51:29
+234,Giulia Marica,1994,F,0:51:32
+235,Domenico Solano,1990,M,0:51:39
+236,Mario Milano,1988,M,0:51:40
+237,Chiara Bonardi,1988,F,0:51:41
+238,Andrea Dotti,1993,M,0:51:42
+238,Carlos Javier Chacon Rojas,1991,M,0:51:42
+238,Francesco Morello,1988,M,0:51:42
+241,Elena Saldarini,1994,F,0:51:43
+242,Pasquale Ventura,1993,M,0:51:50
+243,Luca De Feo,1991,M,0:51:51
+244,Carolina Jaroszuk,1993,F,0:51:52
+245,Sara Della Maddalena,1989,F,0:51:57
+246,Tommaso Avvisati,1989,M,0:52:0
+247,Giusy Angela Fracassi,1988,F,0:52:3
+248,Jessica Capuano,1991,F,0:52:6
+249,Alberto Corrias,1989,M,0:52:16
+250,Mario Mancini,1989,M,0:52:17
+251,Micol Frigerio,1987,F,0:52:30
+252,Simone Ferrari,1991,M,0:52:35
+253,Carlo Giordano,1990,M,0:52:36
+254,Emanuele Somaschini,1992,M,0:52:45
+255,Alberto Cocuzza,1986,M,0:52:48
+256,Davide Manstretta,1988,M,0:52:55
+257,Simone Dridi,1994,M,0:53:10
+258,Federica Orsenigo,1991,F,0:53:11
+259,Silvia Zambrino,1986,F,0:53:13
+260,Emanuele Peta,1990,M,0:53:14
+261,Carlo Ciscato,1990,M,0:53:15
+262,Elisa Perlo,1993,F,0:53:18
+263,Alessandro Coppola,1986,M,0:53:27
+264,Domenico Arena,1993,M,0:53:28
+264,Stefano Ruggiu,1994,M,0:53:28
+264,Antonio Lusardi,1987,M,0:53:28
+267,Sara Aphouet Nâ€™Guessan,1986,F,0:53:32
+268,Dario Brambilla,1992,M,0:53:45
+269,Pietro Panto',1987,M,0:53:48
+269,Silvia Salvaneschi,1988,F,0:53:48
+271,Paula Mariz Lewis,1988,F,0:54:3
+272,Benny David Marvuglia,1986,M,0:54:5
+273,Nicolo Colombo,1991,M,0:54:10
+274,Jonathan Meregalli,1987,M,0:54:17
+275,Francesca Silvestri,1987,F,0:54:18
+276,Julija Milosevic,1993,F,0:54:24
+276,Stefano Diaferia,1987,M,0:54:24
+278,Daniele Cevolo,1989,M,0:54:28
+279,Cristina Belloni,1986,F,0:54:29
+280,Gonzalo Antonio Perez Cerquera,1993,M,0:54:30
+281,Federica Longo,1993,F,0:54:32
+282,Riccardo Perego,1992,M,0:54:38
+283,Michela Baroni,1986,F,0:54:52
+284,Alice Trevisan,1991,F,0:54:53
+284,Matteo Scuratti,1988,M,0:54:53
+286,Michele Papetti,1992,M,0:54:55
+287,Roberto Mazzaferro,1988,M,0:54:56
+288,Josef Ricci Palopoli,1988,M,0:54:57
+289,Mattia Ballerio,1991,M,0:55:0
+290,Alina Akhverdiieva,1992,F,0:55:3
+291,Giovanni Greco,1988,M,0:55:4
+292,Antonio Cimmino,1989,M,0:55:5
+293,Yamileth Helen Chauca Durand,1992,F,0:55:10
+294,Beatrice Biscaro,1994,F,0:55:18
+294,Andrea Amico,1992,M,0:55:18
+296,Paolo Nicola,1989,M,0:55:19
+297,Ilaria Crotti,1992,F,0:55:22
+298,Chiara Landoni,1986,F,0:55:23
+299,Diego Redaelli,1989,M,0:55:24
+300,Mauro Redaelli,1992,M,0:55:25
+301,Andrea Silvestro Fornaroli,1990,M,0:55:29
+302,Ana Maria Leon Merchan,1988,F,0:55:32
+303,Arianna Beatrice Poiani,1991,F,0:55:35
+303,Andrea Crollalanza,1989,M,0:55:35
+305,Anastasiia Salnikova,1992,F,0:55:36
+305,Pietro Milani,1986,M,0:55:36
+307,Anna Zinetti,1994,F,0:55:38
+308,Lyllas Roca,1987,M,0:55:41
+309,Carola Mazzoleni,1993,F,0:55:45
+309,Lorenzo Zagarella,1992,M,0:55:45
+311,Sara Franzoni,1993,F,0:55:47
+312,Chiara Rizzi,1993,F,0:55:53
+313,Moennig Raphael,1991,M,0:55:55
+314,Michele Giovanni Cusmai,1993,M,0:55:56
+315,Marina Ghionna,1987,F,0:55:58
+316,Aurora Livan,1994,F,0:56:3
+317,Vittoria Borella,1993,F,0:56:4
+318,Patrick Coelho,1994,M,0:56:11
+319,Veronica Grigioni,1992,F,0:56:17
+319,Giulia Salvadori,1988,F,0:56:17
+321,Claudio Pozzoli,1991,M,0:56:18
+321,Stefano Bessi,1986,M,0:56:18
+323,Marco Alba,1992,M,0:56:22
+323,Nicolo Brembilla Plati,1993,M,0:56:22
+325,Esteban Alcaraz,1994,M,0:56:26
+326,Yoann Demolder,1990,M,0:56:28
+327,Andrea Capelletti,1994,M,0:56:33
+328,Meron Artifoni,1986,F,0:56:34
+329,Giacomo Fina,1986,M,0:56:35
+330,Luca Pace,1990,M,0:56:44
+331,Lorenzo Vecchi,1989,M,0:56:45
+332,Giulia Pia Cristiano,1990,F,0:56:48
+333,Silvia Zanatta,1988,F,0:56:49
+333,Astrid Acquistapace,1992,F,0:56:49
+333,Francesca Nulchis,1988,F,0:56:49
+336,Francesco Orofino,1994,M,0:56:50
+337,Giovanni Bolis,1989,M,0:56:51
+338,Federico Fabietti,1992,M,0:56:52
+339,Andrea Rogheto,1986,M,0:56:53
+340,Chiara Leone,1991,F,0:56:58
+341,Emanuela Oliva,1986,F,0:56:59
+342,Matteo Fiameni,1987,M,0:57:0
+343,Matteo Rossi,1988,M,0:57:14
+344,Luiza Fabiani Dos Santos Medeiros,1993,F,0:57:15
+344,Loris Castegna,1992,M,0:57:15
+346,Roberto Cardinale,1989,M,0:57:20
+347,Davide Ginelli,1990,M,0:57:21
+348,Alice Gloria Paglino,1990,F,0:57:25
+349,Barbara Ragazzi,1989,F,0:57:27
+349,Cristina Ballarati,1989,F,0:57:27
+351,Enea Lionello,1991,M,0:57:30
+352,Debora Marnini,1989,F,0:57:37
+353,Edoardo Dâ€™Imprima,1987,M,0:57:43
+353,Miriam Balconi,1989,F,0:57:43
+355,Laura Moreno Belmonte,1990,F,0:57:47
+356,Martina Apa,1990,F,0:57:51
+357,Martina Bertocco,1990,F,0:58:2
+358,Paolo Timponelli,1994,M,0:58:5
+359,Francesca Chelucci,1993,F,0:58:7
+360,Isabela Brasileiro Santana De Oliveira,1988,F,0:58:30
+361,Matteo Alberico,1991,M,0:58:38
+362,Paolo Capogrosso,1986,M,0:58:42
+363,Simone Castelli Dezza,1991,M,0:58:54
+364,Giulia Vignali,1989,F,0:59:2
+365,Caterina Vafiadis,1987,F,0:59:3
+366,Federico Sarti,1990,M,0:59:11
+367,Elena Borlenghi,1989,F,0:59:33
+367,Massimo Corbari,1986,M,0:59:33
+369,Susanna Ronchi,1994,F,0:59:34
+370,Martino Governo,1991,M,0:59:40
+371,Roberta Elisa Colombo,1987,F,0:59:49
+372,Fabio Savino,1987,M,0:59:59
+373,Erica Cascone,1992,F,1:0:1
+374,Fausto Luigi Parodi,1987,M,1:0:3
+374,Davide Merli,1993,M,1:0:3
+376,Giacomo Berini,1986,M,1:0:4
+377,Cataldo Azzariti,1990,M,1:0:7
+377,Mia Hultgren,1987,F,1:0:7
+377,Valentina Nevola,1989,F,1:0:7
+380,Alessandro Franzini,1993,M,1:0:10
+381,Stefano Tranchida,1993,M,1:0:16
+382,Dario Vinciguerra,1992,M,1:0:20
+382,Corinna Mantegazza,1992,F,1:0:20
+384,Alessia Giudici,1991,F,1:0:50
+385,Ilaria Buonagurio,1993,F,1:0:54
+386,Sreenihal Shanmughan,1991,U,1:0:55
+387,Anastasiya Bakryeva,1993,F,1:0:57
+387,Sonia Intonti,1993,F,1:0:57
+389,Menooa Nazarian,1994,M,1:1:5
+390,Aras Lotfollah Zadeh,1989,M,1:1:9
+391,Marcomattia Nasali,1987,M,1:1:17
+392,Dario Balconi,1991,M,1:1:26
+392,Davide Gattone,1986,M,1:1:26
+394,Jacopo Marchione,1993,M,1:1:35
+395,Claudio Plebani,1986,M,1:1:42
+395,Filippo Casali,1992,M,1:1:42
+397,Yusuke Tsuzurigi,1988,M,1:1:43
+398,Simona Colnaghi,1994,F,1:1:56
+399,Paolo Mazzitelli,1986,M,1:2:1
+400,Ilaria Domenica Cantalamessa,1994,F,1:2:8
+401,Marco Ruspi,1989,M,1:2:27
+402,Elena Ferrito,1991,F,1:2:33
+403,Mattia Anghileri,1994,M,1:2:36
+404,Lucia Fontana,1986,F,1:2:58
+405,Bianca Maria Lenci,1988,F,1:3:7
+406,Remus Adrian Stanescu,1988,M,1:3:16
+406,Alberto Pagani,1991,M,1:3:16
+408,Anna Bussola,1986,F,1:3:20
+409,Anna Laura Garbetti,1993,F,1:3:30
+410,Giuseppe Cannavale,1986,M,1:3:31
+411,Alessio Baruffi,1991,M,1:3:39
+412,Chiara De Luca,1989,F,1:3:42
+413,Fabio Ruta,1992,M,1:4:7
+414,Federico Oddone,1988,M,1:4:9
+414,Marta Buffa,1987,F,1:4:9
+414,Kate Elisabeth Francis,1987,F,1:4:9
+417,Michele Ripamonti,1988,M,1:4:16
+418,Francesca Colombo,1993,F,1:4:22
+419,Massimiliano Zorzi,1988,M,1:4:26
+420,Giacomo Campeggi,1991,M,1:4:27
+421,Andrea Manfredini,1992,M,1:4:33
+422,Arianna Casagrande,1991,F,1:5:6
+423,Marco Morotti,1991,M,1:5:29
+424,Alice Ronchi,1991,F,1:5:56
+425,Giulia Calori,1989,F,1:6:3
+426,Gabriele Molteni,1993,M,1:6:9
+427,Andrea Luigi Baldini,1991,M,1:6:11
+428,Laura Garavaglia,1988,F,1:6:13
+429,Cecilia Ioppolo,1994,F,1:6:44
+430,Manon Flokstra,1992,F,1:6:46
+431,Ilaria Aresu,1994,F,1:7:35
+432,Sara Tamburelli,1993,F,1:8:1
+433,Vanja Crljenica,1986,F,1:8:32
+434,Erika Roach,1988,F,1:8:35
+435,Giulia Corrarati,1994,F,1:8:38
+436,Alberto Madini,1988,M,1:8:40
+437,Daniele Piha,1987,M,1:9:18
+438,Gabriele Maini,1987,M,1:9:26
+439,Matteo Pirovano,1986,M,1:9:45
+440,Niko Abramo Drago,1990,M,1:9:46
+441,Stefano Travaglino,1988,M,1:9:50
+442,David Matricardi,1988,M,1:9:55
+442,Enrica Labarbera,1989,F,1:9:55
+444,Veronica Giorgio,1987,F,1:10:0
+445,Lorenzo Pinnelli,1986,M,1:10:3
+446,Massimo Righetti,1990,M,1:10:33
+447,Matteo Bordoni,1986,M,1:11:13
+448,Simona Bigliati,1988,F,1:11:14
+449,Alessandro Vigorelli,1993,M,1:11:50
+450,Sara Viciani,1992,F,1:12:1
+451,Luca Gueli,1992,M,1:12:6
+452,Irene Vismara,1993,F,1:12:28
+453,Gaia Colombo,1992,F,1:12:31
+454,Massimiliano Gilardi,1987,M,1:12:35
+455,Elvina, Edwige Bourgeois,1993,F,1:13:39
+456,Marco Carpentieri,1993,M,1:13:44
+457,Debora Maria Motta,1986,F,1:13:59
+458,Yijie Zhao,1992,M,1:14:0
+459,Valeria D'Acci,1992,F,1:14:52
+460,Daniele Stucchi,1986,M,1:14:53
+461,Lorenzo Brambati,1989,M,1:14:56
+462,Davide Luigi Parise,1988,M,1:14:58
+462,Roberta Parolini,1990,F,1:14:58
+462,Tatiana Italiano,1989,F,1:14:58
+465,Mariana Campi Auresco,1992,F,1:15:7
+466,Claudia Santi,1993,F,1:15:21
+467,Roberto Santi,1987,M,1:15:23
+468,Paola Padula,1991,F,1:15:56
+469,Valentina Finazzi,1991,F,1:16:18
+469,Andrea Matteo Valensin,1992,M,1:16:18
+471,Marilisa Bianchi,1987,F,1:16:25
+472,Sean Egon Arnaldi,1994,M,1:16:32
+473,Emma Maria Grecchi,1987,F,1:16:53
+474,Giandomenico Lizzi,1992,M,1:17:33
+475,Gabriela Ancuta Simion,1994,F,1:18:38
+476,Elena Loredana Iacob,1986,F,1:18:39
+477,Massimiliano Pillon,1990,M,1:18:51
+478,Caroline Joyce Elefante,1988,F,1:18:52
+479,Ugochukwu Nyenke,1993,M,1:18:55
+480,Carmela Capolino,1994,F,1:18:57
+481,Federica Quaroni,1994,F,1:18:59
+482,Carlos Cerron RÃ­os,1992,U,1:19:38
+483,Simona Lai Zhi Hu,1994,F,1:19:44
+484,Andrea Fumagalli,1987,M,1:19:46
+485,Valentina Bertarini,1987,F,1:20:0
+485,Valeria Morigi,1987,F,1:20:0
+487,Francesca Romano,1986,F,1:20:3
+488,Fabio Meazza,1987,M,1:21:1
+488,Michela Scabini,1993,F,1:21:1
+490,Anita Volpati,1994,F,1:21:22
+491,Eleonora Oliva,1986,F,1:21:24
+492,Alberto Filippo Cameroni,1993,M,1:21:39
+493,Marco Toccagino,1990,M,1:21:53
+494,Matteo Benelli,1994,M,1:21:57
+495,Lorenzo Bandini,1992,M,1:23:26
+496,Federico Rigon,1986,M,1:23:52
+497,Francesco Lopriore,1987,M,1:24:2
+498,Sofia Mailen Cuadra,1992,F,1:24:15
+499,NicolÃ² Mion,1991,M,1:27:9
+500,Gianmaria Martari,1989,M,1:27:10

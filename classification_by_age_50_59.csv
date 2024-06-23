@@ -1,0 +1,530 @@
+position,name,year of birth,gender,hours:minutes:seconds
+1,Mauro Oliva,1973,M,0:36:20
+2,Francesco Inversini,1970,M,0:38:2
+3,Elio Vincenzo Maria Tamburo,1972,M,0:39:15
+4,Andrea Altea,1970,M,0:39:19
+5,Roberto Bandirali,1972,M,0:39:26
+6,Luca D'Ammora,1969,M,0:39:37
+7,Carlo Audone,1968,M,0:39:49
+8,Marco Vacchini,1974,M,0:39:50
+9,Paolo Violini,1971,M,0:40:18
+10,Davide Gasparini,1974,M,0:40:23
+11,Andrea Meriga,1969,M,0:40:36
+12,Marco Arioli,1974,M,0:40:44
+13,Davide Calcatelli,1970,M,0:40:50
+14,Alessandro Bazzichi,1973,M,0:41:5
+15,Pedro Bermudo Cruz,1972,M,0:41:24
+16,Alessandro Vioglio,1974,M,0:41:32
+17,Paolo Andrea Sala,1970,M,0:41:38
+18,Roberto Curti,1968,M,0:41:47
+19,Davide Baldissarutti,1971,M,0:42:11
+20,Massimo Maraboli,1968,M,0:42:16
+21,Paolo Ernesto Marelli,1967,M,0:42:25
+22,Christian Gandolfi,1971,M,0:42:27
+23,Fabrizio Panzeri,1970,M,0:42:31
+24,Andrea Bordogna,1974,M,0:42:39
+24,Massimo Buraschi,1972,M,0:42:39
+26,Roberto Ferloni,1967,M,0:42:43
+27,Nicola Musano,1974,F,0:42:51
+28,Alberto Gandolfi,1971,M,0:43:12
+29,Giacomo Frizzarin,1974,M,0:43:18
+30,Andrea Muzzana,1972,M,0:43:22
+31,Michele Cancelliere,1970,M,0:43:34
+32,Stefano Aiazzone,1974,M,0:43:35
+33,Paolo Fabbi,1971,M,0:43:39
+34,Moreno Lago,1974,M,0:43:48
+35,Gianluca Villovich,1974,F,0:43:51
+36,Giovanni Giacomazzi,1973,M,0:43:53
+37,Massimo Mazzuchetti,1970,M,0:43:56
+38,Michele Lomazzi,1972,M,0:44:9
+39,Virginia Bacchetta,1970,F,0:44:10
+40,David Chiodaroli,1966,M,0:44:21
+41,Pietro Lannino,1968,M,0:44:26
+42,Cristiano Misani,1969,M,0:44:27
+43,Alessandro Berardo,1974,M,0:44:29
+44,Carlo Margolfo,1966,M,0:44:32
+45,Romeo Giuseppe Bonacina,1970,M,0:44:57
+46,Massimo Galbiati,1970,M,0:45:8
+47,Alberto Maria Negri,1969,M,0:45:19
+48,Giulio Gallera,1969,M,0:45:20
+49,Dario Calori,1971,M,0:45:21
+50,Mario Mezzini,1973,M,0:45:24
+51,Renato Andrew Picassi,1969,M,0:45:27
+51,Luca Campanelli,1970,M,0:45:27
+53,Sergio Igor Deho',1973,M,0:45:29
+54,Luca Caviglia,1971,M,0:45:44
+55,Roberto Masia,1974,M,0:45:47
+56,Barbara Rossi,1972,F,0:45:50
+57,Alessandro Romizzi,1974,M,0:45:51
+58,Federcio Ereno,1966,M,0:45:54
+59,Davide Di Somma,1971,M,0:45:59
+60,Yuri Faccetti,1974,M,0:46:0
+61,Alessio Bazzani,1967,M,0:46:7
+62,Andrea Santambrogio,1974,M,0:46:16
+63,Vincenzo Di Stefano,1969,M,0:46:19
+64,Luca Maria Maugeri,1967,F,0:46:21
+65,Angelo Di Benedetto,1974,M,0:46:22
+65,Federico Fabi,1971,M,0:46:22
+67,Federico Silvestri,1971,M,0:46:23
+68,Anna Fortunato,1972,F,0:46:29
+69,Paolo Angelo Barbatti,1967,M,0:46:38
+70,Andrea Polesel,1971,M,0:46:41
+71,Rocco Lucca,1970,M,0:46:43
+72,Lorenzo Fiorillo,1974,M,0:46:51
+72,Giuseppe Cerrito,1971,M,0:46:51
+74,Guido Mazzarol,1972,M,0:46:56
+75,Claudio Sferch,1966,M,0:46:57
+76,Andrea Giuseppe Lagravinese,1974,M,0:47:7
+77,Antonio Cavallo,1969,M,0:47:11
+77,Luca Merlo,1968,M,0:47:11
+79,Eugenio Agostino Mattia Cornaggia,1974,M,0:47:15
+80,Alessandro Pauletto,1974,M,0:47:17
+81,Massimiliano Crespi,1967,M,0:47:22
+82,Lorenzo Gilardi,1973,M,0:47:26
+83,Eugenio Lanzetta,1973,M,0:47:37
+84,Gianluca Vinco,1974,M,0:47:48
+85,Massimiliano Maffioli,1973,M,0:47:50
+86,Stefano Pastori,1971,M,0:47:51
+87,Davide Galantini,1972,M,0:47:53
+88,Igor Maggiolini,1974,M,0:47:55
+89,Andrea Vinco,1970,M,0:47:57
+90,Lucia Rovati,1974,F,0:48:0
+91,Gianmarco Zambelli,1973,M,0:48:2
+92,Marisa Maffi,1970,F,0:48:6
+93,Dagoberto Candiani,1967,M,0:48:11
+94,Alessandro Santoni,1968,M,0:48:20
+95,Giulio Vivenzi,1971,M,0:48:26
+96,Mauro Carminati,1974,M,0:48:27
+97,Massimo Calbucci,1974,M,0:48:30
+98,Luca Rossi,1973,M,0:48:32
+99,Raffaella Bianchi,1972,F,0:48:37
+100,Guido Giancarlo Gabriele Leccardi,1968,M,0:48:38
+101,Sergio Sbardellati,1966,M,0:48:40
+102,Salvatore Rastro,1967,M,0:48:41
+103,Enrico Sangalli,1969,M,0:48:43
+104,Nicola Pieracci,1974,M,0:48:45
+105,Massimo Cella,1967,M,0:48:51
+106,Giuseppe Burgio,1966,M,0:48:55
+107,Cherubino Carnazzola,1970,M,0:49:1
+108,Andrea Boccotti,1972,M,0:49:3
+109,Clive Charles Scott,1974,M,0:49:10
+110,Alessandro Cioffi,1967,M,0:49:17
+111,Gabriele Castelli,1972,M,0:49:33
+112,Ferdinando Bruno,1974,M,0:49:40
+112,Luigi Cavalli,1971,M,0:49:40
+114,Marco Piccolo,1971,M,0:49:43
+115,Francesco Vitetta,1971,M,0:49:48
+116,Dario Zonta,1969,M,0:49:55
+117,Stefano Grassi,1968,M,0:49:56
+118,Fulvio Omegna,1968,M,0:49:58
+119,Tiziano Opici,1972,M,0:50:6
+120,Bruno Zito,1968,M,0:50:12
+121,Ivan Locatelli,1970,M,0:50:13
+122,Paolo Bertolino,1969,M,0:50:14
+123,Silvia Lomuscio,1974,F,0:50:17
+124,Marcello Pelucchi,1969,M,0:50:19
+125,Christian Morandi,1972,M,0:50:23
+126,Claudia Pisati,1972,F,0:50:27
+127,Ricardo Angulo,1970,M,0:50:28
+128,Gabriella Penza,1972,F,0:50:29
+129,Giovanni Togni,1970,M,0:50:30
+130,Marco Claudio Cesare Nicolini,1970,M,0:50:39
+130,Carlo Giuseppe Acquaviva,1967,M,0:50:39
+132,Lizia Rodari,1973,F,0:50:41
+133,Fabio Sangalli,1967,M,0:50:44
+134,Lino Perani,1966,M,0:50:46
+135,Alessandro Brambilla,1970,M,0:50:48
+136,Dario Domeniconi,1973,M,0:50:51
+137,Stefano Iseppato,1970,M,0:51:6
+137,Cecilia Burzacchi,1974,F,0:51:6
+139,Fabio Pedersani,1967,M,0:51:9
+140,Francesco Mavrici,1973,M,0:51:12
+141,Gianluigi Quaranta,1972,M,0:51:17
+142,Raffaele Moratti,1968,M,0:51:21
+143,Ermanno Fossa,1969,M,0:51:23
+144,Giovanni Corica,1973,M,0:51:25
+145,Anna Maria Guerra,1973,F,0:51:26
+146,Mario Giacomo Rioldi,1972,M,0:51:27
+147,Luca Mircoli,1970,M,0:51:30
+148,Stefano Pelenghi,1968,M,0:51:34
+149,Davide Ambrogio Gaviraghi,1969,M,0:51:44
+149,Stefania Chiarini,1974,F,0:51:44
+151,Vincenzo Tedesco,1968,M,0:51:49
+152,Marco Fabio Tomasini,1966,M,0:51:50
+153,Alessandro Duoccio,1970,M,0:51:54
+153,Roberto Cipollini,1974,M,0:51:54
+155,Ugo Gianluca Florio,1970,M,0:51:56
+156,Luca Larca',1967,M,0:51:59
+157,Giovanni Bernini,1968,M,0:52:0
+158,Gianclaudio Coletta,1973,M,0:52:1
+158,Francesca Sorze,1972,F,0:52:1
+160,Mario Morittu,1969,M,0:52:5
+161,Mauro Lodi,1974,M,0:52:7
+162,Marco Scazza,1972,M,0:52:8
+163,Andrea Bresciani,1968,M,0:52:9
+164,Antonio Auletta,1973,M,0:52:11
+165,Paolo Giovanni Micheli,1974,M,0:52:12
+166,Luigi Decimo,1968,M,0:52:14
+166,Natale Maggioni,1972,M,0:52:14
+168,Andrea Pelizzoni,1973,M,0:52:15
+169,Marco Riccardo Rivolta,1972,M,0:52:16
+170,Ciro Spigonardo,1968,M,0:52:18
+171,Silvia Faedda,1974,F,0:52:22
+172,Stefano Silva,1973,M,0:52:27
+173,Paolo Perugini,1968,M,0:52:28
+174,Elisabetta Galli,1971,F,0:52:34
+175,Alberto Jasoni,1966,M,0:52:36
+176,Luciano Cosmo Dario Fantasia,1974,M,0:52:40
+177,Alessandro Penati,1969,M,0:52:41
+178,Valerio Bresciani,1967,M,0:52:45
+179,Fabio Cassamagnago,1971,M,0:52:46
+179,Rossella Feltre,1970,F,0:52:46
+181,Pietro Roberto Faccone,1973,M,0:52:49
+182,Stefano Zangrando,1969,M,0:52:50
+182,Marco Orlandi,1970,M,0:52:50
+184,Stefania Pelizza,1971,F,0:52:59
+185,Fabio Risetti,1967,M,0:53:2
+185,Roberto Mocco,1972,M,0:53:2
+187,NiccolÃ² Lasorsa Borgomaneri,1974,M,0:53:4
+188,Luca Bonfadini,1972,M,0:53:6
+189,Giannandrea Lombardi,1970,M,0:53:8
+190,Matteo Teruzzi,1974,M,0:53:10
+191,Paolo Frassetto,1970,M,0:53:23
+191,Andrea Bossi,1974,F,0:53:23
+193,Massimiliano Galimberti,1968,M,0:53:28
+194,Barbara D'Angeli,1971,F,0:53:32
+195,Renzo Odiante,1968,M,0:53:34
+196,Michela Tamburin,1968,F,0:53:39
+197,Marco Polimeno,1969,M,0:53:40
+198,Stefano Spinelli,1969,M,0:53:42
+199,Maurizio Canzoneri,1973,M,0:53:46
+200,Italo Luigi Ambrosio,1971,M,0:53:49
+201,Giuseppe Germano Cirillo,1973,M,0:53:51
+201,Stefania Porrini,1967,F,0:53:51
+203,Marzia Lisciandrello,1974,F,0:53:52
+204,Mario Giovanni Zappella,1971,M,0:53:53
+205,Monica Gallerini,1970,F,0:54:6
+206,Massimiliano Bignami,1970,M,0:54:10
+206,Walter Perrucci,1972,M,0:54:10
+208,Daniela Longordo,1971,F,0:54:12
+209,Luigi Manco,1969,M,0:54:13
+210,Vizia Cavaletti,1973,F,0:54:16
+211,Carlo Massafra,1972,M,0:54:20
+212,Lucia Grazia Laudisio,1971,F,0:54:21
+213,Damaris Mederos,1973,F,0:54:23
+214,Ivan Mainardi,1973,M,0:54:24
+214,Massimo Cribiu',1966,M,0:54:24
+214,Luigi Lanzotti,1968,M,0:54:24
+214,Gianluca Beccaria,1966,M,0:54:24
+218,Giovanni Paolo Gatti,1967,M,0:54:26
+219,Giada Emanuela Turati,1974,F,0:54:32
+220,Gesualdo Gargano,1972,M,0:54:36
+220,Mattia Giussani,1969,M,0:54:36
+222,Maurizio Costa,1966,M,0:54:40
+223,Laura Capris,1974,F,0:54:45
+223,Stefania Bonacaro,1971,F,0:54:45
+225,Luciana ArdigÃ²,1967,F,0:54:46
+226,Anna Maria Chiara Peri,1974,F,0:54:48
+227,Andrea Pedrotti,1972,M,0:54:50
+228,Massimiliano Franco Maria Tiana,1971,M,0:55:0
+229,Alberto Casiraghi,1970,M,0:55:2
+230,Barbara Tuzza,1969,F,0:55:4
+231,Elisa Silvestre,1974,F,0:55:5
+232,Sergio Bianchi,1967,M,0:55:10
+233,Maria Elena Peri,1968,F,0:55:11
+234,Alessandra Guglielmetti,1967,F,0:55:12
+235,Gianpaolo Zanesi,1966,M,0:55:14
+235,Sabatino D'Angelo,1972,M,0:55:14
+237,Paolo Tenti,1972,M,0:55:18
+238,Giuseppe Tobia,1966,M,0:55:22
+239,Luca Ghezzi,1968,M,0:55:28
+240,Carmine Carrisi,1966,M,0:55:40
+241,Barbara Mandirola,1972,F,0:55:44
+241,Monique Martelli,1971,F,0:55:44
+243,Francesco Tomasoni,1968,M,0:55:46
+244,Elena Camilla Manca,1968,F,0:55:48
+244,Alberto Gaffuri,1972,M,0:55:48
+244,Michele Fioravanti,1974,M,0:55:48
+247,Elisabetta Luca',1971,F,0:55:51
+248,Nadia Di Lernia,1969,F,0:55:56
+249,Irene Maria Alice Consigliere,1972,F,0:55:57
+249,Davide Ramanand,1968,M,0:55:57
+249,Gianluca Tagliaferri,1969,M,0:55:57
+252,Giuseppe Beraldo,1966,M,0:55:58
+253,Elia Rossi,1972,M,0:55:59
+254,Nina Maria Schmidt,1972,F,0:56:8
+255,Erica Bini,1972,F,0:56:10
+256,Monica Ferratotti,1970,F,0:56:11
+257,Marcella Piera Paola Di Ronza,1967,F,0:56:15
+258,Silvia Bianchi,1972,F,0:56:21
+259,Luca Enrico Santagostino Barbone,1967,M,0:56:28
+260,Andrea De Paoli,1969,M,0:56:34
+261,Davide Jacopo Amato,1969,M,0:56:35
+262,Ilio Gaggia,1966,M,0:56:36
+262,Orietta Barberis,1969,F,0:56:36
+264,Benedetta Rocco,1971,F,0:56:39
+265,Luigi Grilli,1971,M,0:56:41
+266,Fabio Poletto,1971,M,0:56:46
+267,Cristina Massimino,1974,F,0:56:49
+268,Ilaria Sara Galati,1974,F,0:56:51
+268,Alessio Claudio Cavezzan,1971,M,0:56:51
+270,Rossella Mondonico,1972,F,0:56:54
+270,Tom De Groeve,1973,M,0:56:54
+272,Cristian Montani,1973,M,0:56:57
+273,Ilario Porfido,1970,M,0:56:58
+274,Simona BagalÃ ,1974,F,0:57:0
+275,Guido Scialla,1966,M,0:57:2
+276,Renzo Rossi,1968,M,0:57:4
+277,Felice Mesuraca,1966,M,0:57:7
+278,Mauro Osso,1973,M,0:57:8
+279,Mara Giannattasio,1972,F,0:57:10
+280,Luca Guido Mambretti,1967,M,0:57:12
+281,Gabriela Carrillo Saravia,1972,F,0:57:17
+282,Marita Cairo,1971,F,0:57:22
+282,Rosario La Rezza,1974,M,0:57:22
+284,Domenico Mauro Antonio D'Amico,1969,M,0:57:26
+285,Matilde Cauli,1973,F,0:57:27
+285,Mauro Marinoni,1972,M,0:57:27
+287,Filippo De Fraja,1968,M,0:57:29
+287,Riccardo Vescovi,1970,M,0:57:29
+289,Fabio CalÃ²,1969,M,0:57:35
+290,Maria Pavan,1966,F,0:57:36
+291,Davide Musotto,1973,M,0:57:37
+292,Diego Ratti,1969,M,0:57:46
+293,Laila Mari,1970,F,0:57:48
+294,Massimiliano Spinelli,1974,M,0:57:50
+294,Massimo Ancillai,1974,M,0:57:50
+296,Costantino Devecchi,1974,M,0:57:59
+296,Monica Candiani,1974,F,0:57:59
+298,Domenico Castelluccio,1967,M,0:58:0
+299,Roberto Covella,1966,M,0:58:5
+300,Rosario Santini,1968,M,0:58:6
+301,Alessandra Bini,1970,F,0:58:13
+302,Anna Vanetti,1969,F,0:58:16
+302,Vania Marconato,1972,F,0:58:16
+302,Massimo Scerbo,1969,M,0:58:16
+305,Alessandro Romano Basevi,1969,M,0:58:19
+306,Matteo Fausto Di Felice,1969,M,0:58:20
+307,Alessandra Dessi',1970,F,0:58:22
+308,Francesca Ceriani,1972,F,0:58:27
+308,Andrea Martinelli,1968,M,0:58:27
+310,Valentina Anselmo,1971,F,0:58:28
+311,Marco Maffoni,1969,M,0:58:30
+312,Marco G Bigatti,1968,M,0:58:31
+313,Sonia Bandirali,1973,F,0:58:33
+313,Cinzia Ponzio,1973,F,0:58:33
+315,Deborah Prainito,1974,F,0:58:36
+316,Davide Candiani,1972,M,0:58:41
+317,Francesca Maurogiovanni,1970,F,0:58:43
+318,Laura Blanzuoli,1966,F,0:58:45
+318,Silvio Salvadori,1966,M,0:58:45
+320,Maria Teresa Azzimonti,1967,F,0:58:46
+321,Luis Alberto Meza Saldarriaga,1966,M,0:58:52
+322,Rudin Tivari,1973,M,0:58:55
+323,Giovanni Catalano,1966,M,0:58:58
+324,Gabriella Giambalvo,1966,F,0:58:59
+325,Maria Rita Di Pietrangeli,1972,F,0:59:3
+326,Barbara Berzioli,1972,F,0:59:4
+327,Paolo Rocco,1970,M,0:59:8
+327,Monica Mastroserio,1971,F,0:59:8
+329,Maurizio Denisi,1971,M,0:59:11
+330,Vincenzo RaschellÃ ,1967,M,0:59:18
+331,Diego Zongaro,1974,M,0:59:20
+332,Mauro Montepiani,1970,M,0:59:32
+332,Gianluca Renghini,1967,M,0:59:32
+334,Telmo Angulo Chavez,1971,M,0:59:41
+335,Francesco Barbaro,1972,M,0:59:42
+336,Elisabetta Obertone,1974,F,0:59:48
+337,Roberto Zazzu,1967,M,0:59:55
+338,Monia Meoli,1973,F,0:59:57
+339,Paolo Bramati,1972,M,1:0:0
+340,Ilaria Maria Azzi,1972,F,1:0:3
+340,Valeria Aliciati,1974,F,1:0:3
+342,Marcello Cuttica,1970,M,1:0:6
+342,Eva Silva,1972,F,1:0:6
+344,Giovanni Gargiulo,1974,M,1:0:8
+345,Cristina Tapparo,1969,F,1:0:12
+346,Marco Ferro,1969,M,1:0:14
+347,Mihaela Mirela Menichetti,1973,F,1:0:15
+348,Mauro Casiraghi,1973,M,1:0:16
+349,Raffaella Moncalero,1968,F,1:0:17
+350,Marco Ponti,1971,M,1:0:18
+351,Nadia Dâ€™Orazio,1968,F,1:0:19
+351,Massimo Genoni,1971,M,1:0:19
+353,Veronica Pezzotta,1972,F,1:0:31
+354,Carmela Giorgia Nicolo',1967,F,1:0:36
+355,Alda Scacciante,1970,F,1:0:46
+355,Enrico Bizzocoli,1974,M,1:0:46
+355,Gianluca Vareschi,1968,M,1:0:46
+358,Paola Terrando,1967,F,1:0:50
+359,Elisabetta Rovelli,1970,F,1:0:51
+360,Antonio Amadori,1970,M,1:0:55
+361,Matteo Viscardi,1966,M,1:0:58
+362,Maria Grazia Peraboni,1974,F,1:1:2
+363,Federica Fatone,1973,F,1:1:5
+364,Emanuele Proserpio,1973,M,1:1:13
+365,Massimo Agro,1972,M,1:1:28
+366,Giovanni Zaffaroni,1969,M,1:1:35
+367,Ivani Morandotti,1972,M,1:1:36
+368,Alessandro Consonni,1971,M,1:1:55
+368,Tiziana Barazzetta,1967,F,1:1:55
+368,Chiara Bonomi,1968,F,1:1:55
+371,Claudio Mario Laguardia,1969,M,1:1:56
+372,Rossana Ziliani,1971,F,1:2:2
+373,Paolo Consoli,1969,M,1:2:8
+374,Manuela Gervasini,1973,F,1:2:19
+375,Simona Adele Martinelli,1968,F,1:2:20
+376,Luciano Canali,1966,M,1:2:22
+376,Caterina Cafaro,1970,F,1:2:22
+376,Francesca Ardemagni,1974,F,1:2:22
+379,Sabrina Magnaghi,1972,F,1:2:27
+380,Giovanni Mastrangelo,1966,M,1:2:31
+381,Roberta Airoldi,1974,F,1:2:42
+382,Antonio Sangregorio,1966,M,1:2:45
+383,Antonella Licheri,1966,F,1:2:50
+383,Luca Rumi,1973,M,1:2:50
+385,Giuseppe Cassataro,1974,M,1:3:3
+386,Daniele Manfredini,1966,M,1:3:9
+387,Vincenzo Laurante,1972,M,1:3:18
+388,Caterina Alessi,1970,F,1:3:25
+389,Anna Flavia Mosca,1971,F,1:3:31
+390,Greta Vittori,1969,F,1:3:38
+390,Luca Tassotti,1970,M,1:3:38
+392,Cristina Verno',1969,F,1:3:39
+392,Carla Gerosa,1973,F,1:3:39
+394,Barbara Papini,1973,F,1:3:40
+395,Fabio Venturini,1974,M,1:4:8
+396,Paolo Enrico Rosa,1968,M,1:4:10
+397,Anastasia Capodaglio,1970,F,1:4:23
+397,Valentina Vaudo,1972,F,1:4:23
+397,Daniela D'Ambrosio,1968,F,1:4:23
+400,Giovanni Benevento,1973,M,1:4:27
+401,Franco Fabio Anelli,1969,M,1:4:31
+402,Enrico Chirico,1966,M,1:4:33
+403,Cesare Pispico,1969,M,1:4:40
+404,Daniela Esposito,1974,F,1:4:41
+405,Enrica De Ponti,1970,F,1:4:45
+406,Roberto Ventura,1974,M,1:5:5
+407,Monica Laura Cenini,1973,F,1:5:10
+408,Elisabetta Pinchiroli,1974,F,1:5:28
+409,Lorena Gelmini,1974,F,1:5:29
+409,Marzia Fornoni,1974,F,1:5:29
+411,Giuliana Maria Moroni,1970,F,1:5:33
+412,Matteo Filippo Donda,1973,M,1:5:36
+413,Alessandra Pissinis,1973,F,1:5:37
+414,Gionata Silva,1973,M,1:5:38
+415,Anna Fortunato,1968,F,1:5:39
+416,Riccardo Orlandi,1967,M,1:5:45
+417,Alessandro Carita,1966,M,1:5:58
+418,Patrizia Perini,1969,F,1:6:1
+419,Filippo Durante,1968,M,1:6:7
+420,Giacomo Dinoia,1974,M,1:6:10
+421,Laura Marcati,1973,F,1:6:11
+422,Monica Pennati,1966,F,1:6:18
+423,Nicolas Aldo Sanguineti Diaz,1969,M,1:6:27
+424,Sonia Boldrini,1969,F,1:6:28
+425,Vito Tunzi,1972,M,1:6:45
+426,Simona Costanza Bertuzzi,1972,F,1:7:35
+427,Federica Degradi,1968,F,1:7:46
+428,Andrea Maccapani,1972,M,1:7:59
+429,Fabio Sinatra,1966,M,1:8:1
+429,Gianluca Sensini,1971,M,1:8:1
+431,Pierangelo Zavatarelli,1966,M,1:8:8
+432,Brigida Commodaro,1970,F,1:8:11
+433,Simonetta Saviato,1972,F,1:8:12
+434,Federica Visioli,1974,F,1:8:22
+435,Simona Pianese,1970,F,1:8:38
+436,Alessio Fleri,1971,M,1:8:49
+437,Raffaele Mario Vitucci,1968,M,1:8:50
+438,Roberta Faragasso,1967,F,1:9:3
+438,Raffaella Maria Beatrice Giroli,1969,F,1:9:3
+440,Alessandro Lodi Rizzini,1966,M,1:9:33
+441,Simona Imberti,1968,F,1:9:48
+442,Rossana Bosi,1972,F,1:10:3
+443,Eva Maria Abati,1966,F,1:10:49
+444,Gabriella Marena,1967,F,1:11:4
+445,Luigi Monteleone,1969,M,1:11:5
+446,Milco Corno,1966,M,1:11:9
+447,Patricia Villarejo Denia,1967,F,1:11:13
+448,Nicoletta Belloli,1973,F,1:11:20
+449,Daniela Besseghini,1971,F,1:11:29
+450,Maria Grazia Viscito,1968,F,1:11:34
+451,Monica Mora,1971,F,1:11:55
+452,Rossella Ceruti,1972,F,1:12:23
+452,Luca Turner,1973,M,1:12:23
+454,Michela Della Misericordia,1974,F,1:12:45
+455,Marzia Carla Grendene,1973,F,1:12:46
+456,Maria Caterina Ruggeri,1968,F,1:12:55
+457,Marcello Carlo Guarneri,1972,M,1:13:22
+458,Vera La Barbiera,1973,F,1:13:23
+459,Alberto Cassini,1967,M,1:13:37
+460,Matteo Pietropoli,1971,M,1:13:48
+461,Antonello Bologni,1971,M,1:14:5
+462,Eleonora Piselli,1966,F,1:14:6
+463,Michele Esposito,1973,M,1:14:26
+464,Simona Arnoldi,1972,F,1:14:31
+465,Rita D'Urso,1973,F,1:14:34
+466,Andrea Vallesi,1968,M,1:14:50
+467,Paolo Giuseppe Morandi,1972,M,1:14:51
+468,Federica Smaldino,1973,F,1:14:52
+469,Giuseppe Lagori,1967,M,1:15:12
+470,Serena Minotti,1973,F,1:15:38
+471,Valentino Lue,1968,M,1:15:48
+472,Alessandro Lodi,1973,M,1:15:54
+473,Paola Rodescalli,1969,F,1:16:15
+474,Debora Mori,1973,F,1:16:25
+475,Massimo Faggiano,1972,M,1:16:27
+476,Angela Pezzini,1971,F,1:16:34
+477,Mariastella Bucca,1969,F,1:16:52
+477,Morgana Barbarini,1973,F,1:16:52
+479,Isabella Mitrotti,1970,F,1:17:0
+480,Ilia Scuratti,1968,F,1:17:4
+481,Jacopo M Ballerini,1974,M,1:17:6
+482,Gianfranco Gariboldi,1970,M,1:17:16
+483,Roberto Esposito,1971,M,1:17:18
+484,Paolo Padovani,1970,M,1:17:29
+484,Yolanda Gonzalez Oliva,1972,F,1:17:29
+486,Carmela Martiradonna,1968,F,1:17:48
+487,Federica Rossi,1972,F,1:17:50
+488,Alfredo Coco,1971,M,1:18:11
+489,Rita D'Amico,1968,F,1:18:15
+490,Paolo Alberto Grillo,1968,M,1:18:17
+491,Rossana Carrubba,1969,F,1:18:18
+492,Dalia Lina Andreotti,1969,F,1:18:53
+492,Tiziana Scanu,1972,F,1:18:53
+494,Mauro Valieri,1966,M,1:19:9
+495,Mauro Pizzi,1974,M,1:19:12
+496,Angela Agnese De Stefano,1966,F,1:19:24
+497,Marco Angelo Antonio Paleari,1974,M,1:19:50
+498,Manuela Villa,1969,F,1:20:9
+499,Nazareno Degan,1969,M,1:20:28
+500,Marco Castoldi,1974,M,1:20:29
+501,Antonio Orlando,1970,M,1:20:45
+502,Luca Carraro,1972,F,1:21:16
+503,Emanuela Giovanna Emilia Colombo,1973,F,1:21:18
+504,Sara Capperi,1972,F,1:21:30
+505,Barbara Arienti,1968,F,1:21:48
+506,Laura Lapucci,1972,F,1:22:1
+507,Maddalena Capuano,1974,F,1:22:3
+508,Simona Invernizzi,1974,F,1:22:9
+509,Simona Righettoni,1971,F,1:22:10
+510,Diego Borgo,1974,M,1:22:13
+511,Anna Maria Curcio,1968,F,1:22:21
+512,Cristina De Filippo,1972,F,1:22:29
+513,Giovanni Luca Datteo,1972,M,1:22:45
+514,Paolo Congiu,1974,M,1:22:54
+515,Wilma Lenzi,1974,F,1:23:41
+515,Claudia Clementi,1971,F,1:23:41
+517,Gianluca Costanzo,1971,M,1:24:14
+518,Timoteo Braga,1973,M,1:25:36
+519,Roberta Neri,1974,F,1:27:4
+520,Nina Yovany RÃ­os Barboza,1973,F,1:27:49
+521,Lucia Rubbuano,1970,F,1:28:9
+522,Luca Iuorio,1972,M,1:28:35
+523,Federica Cavallari,1970,F,1:33:9
+524,Francesca Cinzia Sgarlata,1973,F,1:34:58
+525,Gianluca Nataloni,1971,M,1:36:3
+526,Stefania Valentino,1974,F,1:36:50
+527,Patrizia Cristina Manuela Muti,1973,F,1:39:8
+528,Simona Lodovici,1971,F,1:39:21
+529,Marzia Mojoli,1970,F,1:39:22

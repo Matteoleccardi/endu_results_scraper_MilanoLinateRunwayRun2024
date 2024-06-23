@@ -1,0 +1,148 @@
+position,name,year of birth,gender,hours:minutes:seconds
+1,Hubert Vigl,1964,M,0:43:29
+2,Vittorio Valvo,1963,M,0:44:8
+3,Lorenzo Merli,1962,M,0:44:11
+3,Roberto Cecchetto,1963,M,0:44:11
+5,Attilio Terragni,1961,M,0:44:37
+6,Angelo Ceruti,1960,M,0:45:1
+7,Pasquale Sapia,1958,M,0:45:26
+8,Angelo Medagliani,1962,M,0:45:41
+9,Antonio Di Vico,1964,M,0:46:33
+10,Roberto Ruga,1958,M,0:47:14
+11,Ancilla Manzini,1963,F,0:47:23
+12,Giuseppe Baracchi,1960,M,0:47:27
+13,Francesco Ficicchia,1964,M,0:47:35
+14,Giorgio Zennaro,1961,M,0:47:58
+15,Marco Scansani,1960,M,0:48:5
+16,Bernardo Bellomi,1962,M,0:48:13
+17,Eugenio Muscogiuri,1963,M,0:48:32
+18,Luigi Sarzi Sartori,1964,M,0:48:39
+19,Francesco Arnone,1959,M,0:48:44
+20,Giuseppe Bergamaschi,1962,M,0:48:47
+21,Emilio Quattrini,1962,M,0:49:38
+21,Stefano Luigi Vivaldini,1964,M,0:49:38
+23,Silvia Bassanetti,1964,F,0:50:42
+24,Marta Gladis Grossi,1963,F,0:50:43
+25,Mauro Blini,1964,M,0:50:56
+26,Stefano Antonini,1962,M,0:51:8
+27,Giorgio Carneri,1964,M,0:51:21
+28,Sergio Velli,1960,M,0:51:38
+29,Bernardino Verona,1961,M,0:51:50
+30,Giuseppe Bonaventura,1959,M,0:52:9
+31,Nino Leuratti,1964,M,0:52:14
+32,Luigi Pirola,1962,M,0:52:18
+32,Giovanni Liso,1964,M,0:52:18
+34,Martino Spadari,1961,M,0:52:19
+35,Michele Costantino,1964,M,0:52:20
+36,Mauro Michele Cerone,1962,M,0:52:34
+37,Fabrizio Salvi,1964,M,0:52:52
+38,Filippo Lamperti,1963,M,0:52:55
+39,Massimo Pirola,1963,M,0:53:13
+40,Walter Veronelli,1960,M,0:53:14
+41,Lorenzo Gabrieli,1958,M,0:53:26
+42,Roberto Masin,1964,M,0:53:28
+43,Franco Calvetti,1960,M,0:53:33
+44,Salvatore Palazzo,1962,M,0:53:47
+45,Nicola Salvemini,1963,M,0:53:51
+46,Alberto Fumagalli,1961,M,0:54:17
+47,Massimo Cordini,1958,M,0:54:27
+48,Aldo Gaudimundo,1962,M,0:54:46
+49,Marco Cino,1964,M,0:54:53
+50,Giuseppe Lisbona,1963,M,0:54:57
+51,Stefano Valle,1956,M,0:55:27
+52,Maurizio Bertoncello,1957,M,0:55:33
+53,Alberto Magenta,1963,M,0:55:48
+54,Flavio Guerrini,1963,M,0:55:50
+55,Carlo Probo Ettore Siepi,1964,M,0:56:10
+55,Rocco Puzziferri,1962,M,0:56:10
+57,Claudio Guido Bombelli,1964,M,0:56:14
+58,Giuseppe Falco,1964,M,0:56:19
+59,Franco Pucci,1963,M,0:56:21
+60,Pietro Giorgio Della Maddalena,1959,M,0:56:35
+61,Andrea Gerhardinger,1959,M,0:56:55
+62,Walter Rossi,1963,M,0:57:17
+63,Giulia Boccassi,1964,F,0:57:23
+64,Antonio De Luca,1964,M,0:57:25
+65,Gianfranco Gallotti,1960,M,0:57:36
+66,Wendy Newman,1957,F,0:57:44
+67,Mirella Valsecchi,1960,F,0:58:5
+67,Paola Rota,1964,F,0:58:5
+69,Eligio Baita,1963,M,0:58:7
+70,Paolo Frassoni,1964,M,0:58:10
+71,Moreno Stefano Stefani,1963,M,0:58:17
+72,Andrea Luca Naborri,1964,M,0:58:28
+73,Roberto Dominioni,1964,M,0:59:13
+74,Moreno Ambrogini,1963,M,0:59:15
+75,Magda Fiorenza Maiocchi,1962,F,0:59:35
+76,Roberto Scipione,1964,M,0:59:47
+77,Carlo Colombo,1964,M,0:59:50
+78,Maria Cristina Lanzi,1963,F,1:0:26
+78,Filippo Sacchi,1963,M,1:0:26
+80,Edoardo Mario Pagani,1963,M,1:0:37
+81,Paola Jasoni,1963,F,1:0:42
+82,Renato Attilio Zanella,1961,M,1:0:46
+83,Andrea Luigi Liistro,1963,M,1:0:51
+84,Giuseppe Borrelli,1959,M,1:0:52
+85,Claudia Vazzoler,1962,F,1:0:59
+86,Antonio Conti,1958,M,1:1:18
+87,Claudio Sali,1956,M,1:2:34
+87,Patrizia Cieri,1961,F,1:2:34
+89,Raffaele Curci,1956,M,1:3:28
+90,Paolo Pugni,1960,M,1:3:33
+91,Luca Leone Zanardini,1964,M,1:3:37
+92,Rossella De Bartolomeo,1963,F,1:3:56
+93,Massimo Piacentini,1964,M,1:3:57
+94,Desidero Barcellesi,1958,M,1:4:9
+94,Paolo Giuseppe Luigi Cotta,1960,M,1:4:9
+96,Maurizio Giuseppe Casati,1962,M,1:4:13
+97,Marco Bedin,1962,M,1:4:30
+98,Stefano Valbonesi,1964,M,1:5:54
+99,Nicoletta Cairati,1963,F,1:6:14
+100,Maura Elisabetta Salvatori,1962,F,1:6:24
+101,Roberto Bez,1961,M,1:6:25
+102,Maria Beatrice Rigorni,1962,F,1:6:26
+103,Raffaele Schiattarella,1963,M,1:6:41
+104,Franca MalagÃ²,1962,F,1:7:2
+105,Antonella Maristella Tralci,1962,F,1:7:5
+106,Carla Ciscato,1963,F,1:7:8
+107,Emanuela Pampani,1962,F,1:7:15
+108,Silvana Lattanzio,1956,F,1:7:20
+109,Marco Alessandro Pagani,1961,M,1:7:24
+110,Bruno Parenti,1962,M,1:7:44
+111,Marina Lenci,1963,F,1:8:12
+112,Armando Brunini,1962,M,1:8:14
+113,Angelina Vurchio,1963,F,1:8:32
+114,Alessandro Ambrosioni,1961,M,1:9:27
+115,Massimo Sabadini,1963,M,1:9:44
+116,Gino Scarsella,1962,M,1:10:3
+116,Paolo Cometti,1960,M,1:10:3
+118,Cristina Piazzalunga,1962,F,1:10:4
+119,Paola Patrizia Cremaschi,1959,F,1:10:5
+120,Stefano Bernardoni,1962,M,1:10:51
+121,Claudio Del Vecchio,1961,M,1:10:55
+122,Rosario Libraro,1959,M,1:11:11
+123,Marco Bruno,1963,M,1:11:16
+124,Antonello Oldrini,1959,M,1:12:17
+125,Ernesto Di Majo,1964,M,1:13:1
+126,Anna Gentile,1960,F,1:14:2
+127,Maria Cinzia Sottocorno Visigalli,1963,F,1:14:11
+127,Pierluigi Dallera,1962,M,1:14:11
+129,Silvia Angela Pochetti,1962,F,1:16:17
+130,Alberto Mario Sanzani,1963,M,1:17:23
+131,Stefano Palmini,1962,M,1:17:25
+132,Antonella Montesanti,1962,F,1:18:7
+133,Luigi Cosentini,1963,M,1:19:10
+134,Cristina Carita',1964,F,1:19:51
+135,Davide Medri,1961,M,1:19:52
+136,Donato Caragnano,1960,M,1:21:11
+137,Gian Battista Barcella,1960,M,1:21:21
+138,Immacolata Salzano,1962,F,1:22:11
+139,Maria Savino,1958,F,1:23:33
+140,Alicia Campo BauzÃ¡,1964,F,1:23:55
+141,Roberta Bellodi,1963,F,1:24:36
+142,Flavio Preda,1961,M,1:27:12
+143,Simona Angela Perini,1961,F,1:27:16
+144,Luciano Tagliabue,1963,M,1:30:27
+145,Renzo Mario Rebosio,1960,M,1:32:50
+146,Germana Rescali,1960,F,1:36:49
+147,Massimo Francesco Gemelli,1961,M,1:40:15
